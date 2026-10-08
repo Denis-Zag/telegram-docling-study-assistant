@@ -1,0 +1,16 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.pytest-tmp*/
+.cache/
+.install-temp/
+.pip-cache/
+logs/
+*.log
+.idea/
+.vscode/
+docs/HOMEWORK_TEST_SCENARIO.md
